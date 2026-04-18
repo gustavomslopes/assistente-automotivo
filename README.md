@@ -1,4 +1,3 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/SEU-USUARIO/assistente-automotivo/blob/main/assistente_automotivo.ipynb)
 # 🚗 Assistente Automotivo por Voz
 
 Projeto de um assistente inteligente com reconhecimento de voz voltado para entusiastas e proprietários de veículos.
